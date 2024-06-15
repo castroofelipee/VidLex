@@ -1,0 +1,3 @@
+#!/bin/bash
+pip3 install -r /usr/local/share/VidLex/requirements.txt
+chmod +x /usr/local/bin/VidLex

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=VidLex
+Comment=VidLex Application
+Exec=/usr/local/bin/VidLex
+Icon=/usr/local/share/VidLex/assets/images/logo.png
+Terminal=false
+Type=Application
+Categories=Utility;Application;

@@ -1,30 +1,39 @@
 <div align="center">
   <p>
     <h1>
-      <a href="https://github.com/VidLex-org/VidLex">
-        <img src="assets/images/vidlex_logo.jpg" alt="VidLex" width="100" />
+      <a href="">
+        <img src="src/assets/images/logo.png" alt="VidLex" width="300" />
       </a>
       <br />
       VidLex
     </h1>
-    <h4>Extract and Search Words in YouTube Videos</h4>
+    <h4>A versatile application for various tasks</h4>
   </p>
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) 	![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+---- 
+
+<div align="center">
+<a href="https://www.paypal.com/donate/?hosted_button_id=LK5QAZYRN2R2A"><img src="src/assets/images/image.png" width=170 alt="Paypal donation button"></a>
+<h3>
+</h3>
 </div>
 
-[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
+![alt text](image.png)
+</div>
 
-## Preview
-![image](assets/images/demo.gif)
+## Instalation - Windows
+You need to go to the Releases tab and download the exe. After that, just start programming
 
-## Features
+## Instalation - Linux (Fedora and Ubuntu)
+You can get the `deb` or `rpm` package and install it using the following commands
 
-- Customizable appearance.
-- Easy to use.
-- In-app screenshot editing.
-- DBus interface.
-- Upload to Imgur.
+```sh 
+sudo dpkg -i videlex_1.0.0_all.db
+```
 
-
-## Contribute
-
-If you want to contribute check the [CONTRIBUTING.md](docs/CONTRIBUTING.md)
+```sh 
+sudo dnf -i videlex_1.0.0_all.rpm
+```
